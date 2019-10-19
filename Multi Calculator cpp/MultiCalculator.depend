@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1571060898 source:c:\users\kaneva\desktop\everything\coding stuff\multi calculator cpp\averagecalc.cpp
+	"AverageCalc.h"
+
+1571060964 c:\users\kaneva\desktop\everything\coding stuff\multi calculator cpp\averagecalc.h
+
+1570907355 source:c:\users\kaneva\desktop\everything\coding stuff\multi calculator cpp\basiccalculations.cpp
+	"BasicCalculations.h"
+	<iostream>
+	<fstream>
+
+1570912452 c:\users\kaneva\desktop\everything\coding stuff\multi calculator cpp\basiccalculations.h
+
+1570874016 source:c:\users\kaneva\desktop\everything\coding stuff\multi calculator cpp\fractioncalc.cpp
+	"FractionCalc.h"
+	<iostream>
+
+1570899274 c:\users\kaneva\desktop\everything\coding stuff\multi calculator cpp\fractioncalc.h
+
+1570914679 source:c:\users\kaneva\desktop\everything\coding stuff\multi calculator cpp\infinitesequences.cpp
+	"InfiniteSequences.h"
+	<iostream>
+
+1571000500 c:\users\kaneva\desktop\everything\coding stuff\multi calculator cpp\infinitesequences.h
+

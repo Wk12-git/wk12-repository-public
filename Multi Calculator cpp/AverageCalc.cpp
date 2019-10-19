@@ -1,0 +1,2 @@
+#include "AverageCalc.h"
+

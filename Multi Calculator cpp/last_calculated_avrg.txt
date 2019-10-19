@@ -1,0 +1,4 @@
+Last calculated average of 2: 1.84178e-307
+Last calculated average of 3: 2.07391e-307
+Last calculated average of 4: 26.25
+Last calculated average of 5: 2.162e-307
