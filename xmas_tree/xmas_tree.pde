@@ -15,11 +15,11 @@ public
 }
 
 void setup() {
-  size(3800, 1500);
+  size(2700, 3300);
   smooth();
   background(#C45C1F);
   noStroke();
-  String url = "https://nypost.com/wp-content/uploads/sites/2/2018/12/female-male-santa.jpg?quality=80&strip=all";
+  String url = "https://jleague.espzen.com/pics/players/uploaded/3343_20160413154838players.jpg";
   funnyImg = loadImage(url, "png");
 }
 
@@ -45,8 +45,8 @@ ellipse(113, 700, circle.ellipseW, circle.ellipseH);
 endShape();
   
   
-funnyImg.resize(500,500);
-image(funnyImg, 3100, 100);
+funnyImg.resize(300,300);
+image(funnyImg, 200, 200);
   
 //draw triangles with lines
 
